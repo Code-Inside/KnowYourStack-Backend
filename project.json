@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Sloader.Engine": "0.7.1"
+      }
+    }
+   }
+}
